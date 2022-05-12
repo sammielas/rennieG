@@ -1,4 +1,4 @@
-# RennieG Foods
+# RennieG Foods and Pastries
 
 This is an app built to provide food and catering services to online customers.https://rennieg.netlify.app
 
